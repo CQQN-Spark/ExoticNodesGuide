@@ -9,9 +9,10 @@ We offer free hosting for these platforms;-\
 Minecraft Java Edition\
 Minecraft Bedrock Edition\
 Minecraft Pocket Edition\
+Minecraft Proxy\
 Grand Theft Auto\
 Discord Bot\
-TeamSpeak (SOON)\
+TeamSpeak\
 Terraria (SOON)\
 \
 What we offer as default specifications;-\
