@@ -16,3 +16,8 @@
 * [Creating an account](getting-started/creating-an-account.md)
 * [Creating a server](getting-started/creating-a-server.md)
 * [Login to Server Panel](getting-started/login-to-server-panel.md)
+
+## Client Panel Guides <a href="#clientpanel" id="clientpanel"></a>
+
+* [AFK Coins](clientpanel/afk-coins.md)
+* [Linkvertise Coins](clientpanel/linkvertise-coins.md)
