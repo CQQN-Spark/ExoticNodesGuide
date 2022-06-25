@@ -4,7 +4,7 @@ description: Learn about our services.
 
 # What we offer
 
-We offer free hosting for these platforms.\
+We offer free hosting for these platforms;-\
 \
 Minecraft Java Edition\
 Minecraft Bedrock Edition\
@@ -14,4 +14,4 @@ Discord Bot\
 TeamSpeak (SOON)\
 Terraria (SOON)\
 \
-According to <mark style="color:green;">**HetrixTools**</mark> we have a uptime of <mark style="color:green;">**100%**</mark>** ** not including maintenance days.
+According to <mark style="color:green;">**HetrixTools**</mark> we have a uptime of <mark style="color:green;">**100%**</mark><mark style="color:green;">\*</mark> not including maintenance days.
