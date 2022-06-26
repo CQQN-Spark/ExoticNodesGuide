@@ -21,3 +21,8 @@
 
 * [AFK Coins](clientpanel/afk-coins.md)
 * [Linkvertise Coins](clientpanel/linkvertise-coins.md)
+
+***
+
+* [Import](import/README.md)
+  * [watch](import/watch.md)
