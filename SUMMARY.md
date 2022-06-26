@@ -30,8 +30,3 @@
 
 * [How to use SFTP (#1 ASKED)](faq/sftp/README.md)
   * [SFTP Guide by Falix](https://www.youtube.com/watch?v=mUQlgqcvEho)
-
-***
-
-* [Import](import/README.md)
-  * [watch](import/watch.md)
