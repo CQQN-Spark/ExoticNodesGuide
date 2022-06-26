@@ -24,9 +24,5 @@
 
 ## Server Panel Guides <a href="#pterodactyl" id="pterodactyl"></a>
 
-* [Coming soon!](pterodactyl/coming-soon.md)
-
-## Frequently Asked Questions <a href="#faq" id="faq"></a>
-
-* [How to use SFTP (#1 ASKED)](faq/sftp/README.md)
+* [SFTP Client Guide](pterodactyl/sftp/README.md)
   * [SFTP Guide by Falix](https://www.youtube.com/watch?v=mUQlgqcvEho)

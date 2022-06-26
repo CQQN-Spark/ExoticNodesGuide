@@ -1,8 +1,8 @@
 ---
-description: Learn how to transfer large files using an SFTP client. (Filezilla)
+description: Learn how to transfer large files using an SFTP client.
 ---
 
-# How to use SFTP (#1 ASKED)
+# SFTP Client Guide
 
 Please see the guide linked to this page.\
 FileZilla: [CLICK HERE](https://filezilla-project.org/download.php?type=client)\
