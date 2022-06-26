@@ -1,10 +1,10 @@
 # Table of contents
 
-## Introduction
+## Introduction <a href="#intro" id="intro"></a>
 
 * [Who we are](README.md)
-* [What we offer](introduction/what-we-offer.md)
-* [Where to find us](introduction/links/README.md)
+* [What we offer](intro/what-we-offer.md)
+* [Where to find us](intro/links/README.md)
   * [Client Panel](https://client.exoticnodes.net/)
   * [Server Panel](https://panel.exoticnodes.net/)
   * [Status Page](https://status.exoticnodes.net/)
@@ -21,6 +21,15 @@
 
 * [AFK Coins](clientpanel/afk-coins.md)
 * [Linkvertise Coins](clientpanel/linkvertise-coins.md)
+
+## Server Panel Guides <a href="#pterodactyl" id="pterodactyl"></a>
+
+* [Coming soon!](pterodactyl/coming-soon.md)
+
+## Frequently Asked Questions <a href="#faq" id="faq"></a>
+
+* [How to use SFTP (#1 ASKED)](faq/sftp/README.md)
+  * [SFTP Guide by Falix](https://www.youtube.com/watch?v=mUQlgqcvEho)
 
 ***
 
