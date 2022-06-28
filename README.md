@@ -1,5 +1,6 @@
 ---
 description: Learn about us.
+layout: landing
 ---
 
 # Who we are

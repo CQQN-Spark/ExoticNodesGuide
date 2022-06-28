@@ -25,3 +25,5 @@ Step 2: Hover to the top left second button that says "Account Management"\
 Step 3: Click on the button that says "Account Management"\
 Step 4: Click the **big** <mark style="color:blue;">blue</mark> "Reset Account Password" button\
 Step 5: Copy the password to get your panel/SFTP password.\
+\
+\

@@ -6,14 +6,14 @@ description: Learn about our services.
 
 We offer free hosting for these platforms;-\
 \
-Minecraft Java Edition\
-Minecraft Bedrock Edition\
-Minecraft Pocket Edition\
-Minecraft Proxy\
-Grand Theft Auto\
-Discord Bot\
-TeamSpeak\
-Terraria (SOON)\
+![:arrow1:](https://cdn.discordapp.com/emojis/923905889889583154.gif?size=64\&quality=lossless) **Minecraft Java**\
+****![:arrow1:](https://cdn.discordapp.com/emojis/923905889889583154.gif?size=64\&quality=lossless) **Minecraft Bedrock/PE** \
+****![:arrow1:](https://cdn.discordapp.com/emojis/923905889889583154.gif?size=64\&quality=lossless) **Minecraft Proxy** \
+****![:arrow1:](https://cdn.discordapp.com/emojis/923905889889583154.gif?size=64\&quality=lossless) **Discord Bot Hosting** \
+****![:arrow1:](https://cdn.discordapp.com/emojis/923905889889583154.gif?size=64\&quality=lossless) **Python/Node.js Programs** \
+****![:arrow1:](https://cdn.discordapp.com/emojis/923905889889583154.gif?size=64\&quality=lossless) **GTA 5 Server Hosting** \
+****![:arrow1:](https://cdn.discordapp.com/emojis/923905889889583154.gif?size=64\&quality=lossless) **TeamSpeak Server** \
+****![:arrow1:](https://cdn.discordapp.com/emojis/923905889889583154.gif?size=64\&quality=lossless) **MySQL Database**\
 \
 What we offer as default specifications;-\
 \
