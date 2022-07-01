@@ -4,7 +4,8 @@
 
 * [Who we are](README.md)
 * [What we offer](intro/what-we-offer.md)
-* [Where to find us](intro/links/README.md)
+* [Where to find us](intro/map/README.md)
+  * [Main Page](https://www.exoticnodes.net/)
   * [Client Panel](https://client.exoticnodes.net/)
   * [Server Panel](https://panel.exoticnodes.net/)
   * [Status Page](https://status.exoticnodes.net/)
@@ -19,8 +20,9 @@
 
 ## Client Panel Guides <a href="#clientpanel" id="clientpanel"></a>
 
-* [AFK Coins](clientpanel/afk-coins.md)
-* [Linkvertise Coins](clientpanel/linkvertise-coins.md)
+* [AFK Coins](clientpanel/afk.md)
+* [Linkvertise (DISABLED)](clientpanel/linkvertise.md)
+* [Gifting Coins](clientpanel/gift.md)
 
 ## Server Panel Guides <a href="#pterodactyl" id="pterodactyl"></a>
 
