@@ -9,6 +9,7 @@ We offer free hosting for these platforms;-\
 ![:arrow1:](https://cdn.discordapp.com/emojis/923905889889583154.gif?size=64\&quality=lossless) **Minecraft Java**\
 ****![:arrow1:](https://cdn.discordapp.com/emojis/923905889889583154.gif?size=64\&quality=lossless) **Minecraft Bedrock/PE** \
 ****![:arrow1:](https://cdn.discordapp.com/emojis/923905889889583154.gif?size=64\&quality=lossless) **Minecraft Proxy** \
+****![:arrow1:](https://cdn.discordapp.com/emojis/923905889889583154.gif?size=64\&quality=lossless) **Terraria Hosting**\
 ****![:arrow1:](https://cdn.discordapp.com/emojis/923905889889583154.gif?size=64\&quality=lossless) **Discord Bot Hosting** \
 ****![:arrow1:](https://cdn.discordapp.com/emojis/923905889889583154.gif?size=64\&quality=lossless) **Python/Node.js Programs** \
 ****![:arrow1:](https://cdn.discordapp.com/emojis/923905889889583154.gif?size=64\&quality=lossless) **GTA 5 Server Hosting** \
