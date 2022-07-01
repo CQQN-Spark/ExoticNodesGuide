@@ -1,5 +1,5 @@
 ---
-description: How to accept EULA. (If you do not accept the EULA you server will not start)
+description: How to accept EULA. (If you do not accept the EULA your server will not start)
 ---
 
 # EULA Acceptance
