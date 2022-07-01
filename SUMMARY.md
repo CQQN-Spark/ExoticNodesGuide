@@ -27,3 +27,7 @@
 * [SFTP Client Guide](pterodactyl/sftp/README.md)
   * [SFTP Guide by Falix](https://www.youtube.com/watch?v=mUQlgqcvEho)
 * [Java Version (BFIX)](pterodactyl/javabfix.md)
+
+## Minecraft Guides <a href="#minecraft" id="minecraft"></a>
+
+* [EULA Acceptance](minecraft/eula.md)
