@@ -18,18 +18,18 @@
 * [Creating a server](getting-started/creating-a-server.md)
 * [Login to Server Panel](getting-started/login-to-server-panel.md)
 
-## Client Panel Guides <a href="#clientpanel" id="clientpanel"></a>
+## General Guides <a href="#general" id="general"></a>
 
-* [AFK Coins](clientpanel/afk.md)
-* [Linkvertise (DISABLED)](clientpanel/linkvertise.md)
-* [Gifting Coins](clientpanel/gift.md)
-
-## Server Panel Guides <a href="#pterodactyl" id="pterodactyl"></a>
-
-* [SFTP Client Guide](pterodactyl/sftp/README.md)
+* [AFK Coins](general/afk.md)
+* [Gifting Coins](general/gift.md)
+* [SFTP Client Guide](general/sftp/README.md)
   * [SFTP Guide by Falix](https://www.youtube.com/watch?v=mUQlgqcvEho)
-* [Java Version (BFIX)](pterodactyl/javabfix.md)
+* [Giving server access](general/users.md)
+* [Numerical IP \[LIST\]](general/IPv4.md)
+* [Java Version \[MultiEgg\]](general/javabfix.md)
+* [Linkvertise \[DISABLED\]](general/linkvertise.md)
 
 ## Minecraft Guides <a href="#minecraft" id="minecraft"></a>
 
 * [EULA Acceptance](minecraft/eula.md)
+* [Cracked Mode](minecraft/cracked-mode.md)

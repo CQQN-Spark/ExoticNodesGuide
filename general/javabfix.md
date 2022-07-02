@@ -1,10 +1,8 @@
 ---
-description: >-
-  A fix on a bug where you need to type the Java Version every time you start
-  your server.
+description: How to select a server version.
 ---
 
-# Java Version (BFIX)
+# Java Version \[MultiEgg]
 
 Step 1: Head over to [https://panel.exoticnodes.net/](https://panel.exoticnodes.net/)\
 Step 2: Click your server\
