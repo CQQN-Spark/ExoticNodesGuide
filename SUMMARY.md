@@ -26,7 +26,7 @@
   * [SFTP Guide by Falix](https://www.youtube.com/watch?v=mUQlgqcvEho)
 * [Giving server access](general/users.md)
 * [Numerical IP \[LIST\]](general/IPv4.md)
-* [Java Version \[MultiEgg\]](general/javabfix.md)
+* [Java Version \[MultiEgg\]](general/java.md)
 * [Linkvertise \[DISABLED\]](general/linkvertise.md)
 
 ## Minecraft Guides <a href="#minecraft" id="minecraft"></a>
