@@ -1,5 +1,5 @@
 ---
-description: How to select a server version.
+description: How to select a java version on a server.
 ---
 
 # Java Version \[MultiEgg]
