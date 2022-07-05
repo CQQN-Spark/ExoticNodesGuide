@@ -33,3 +33,4 @@
 * [EULA Acceptance \[Java\]](minecraft/eula.md)
 * [Cracked Mode \[Java\]](minecraft/cracked-mode.md)
 * [Adding Resource Pack \[Java\]](minecraft/jrp.md)
+* [Adding Resource Pack \[Bedrock\]](minecraft/brp.md)
