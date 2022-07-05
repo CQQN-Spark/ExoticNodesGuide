@@ -31,5 +31,5 @@
 ## Minecraft Guides <a href="#minecraft" id="minecraft"></a>
 
 * [EULA Acceptance \[Java\]](minecraft/eula.md)
-* [Cracked Mode \[Java\]](minecraft/cracked-mode-java.md)
-* [Adding Resource Pack \[Java\]](minecraft/adding-resource-pack-java.md)
+* [Cracked Mode \[Java\]](minecraft/cracked-mode.md)
+* [Adding Resource Pack \[Java\]](minecraft/jrp.md)
