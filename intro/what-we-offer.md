@@ -20,6 +20,7 @@ What we offer as default specifications;-\
 \
 **4** GB Ram\
 **5** GB Disc\
-**75**% CPU\
+**125**% CPU\
+**1** Server Slot\
 \
 According to <mark style="color:green;">**HetrixTools**</mark> we have a uptime of <mark style="color:green;">**100%**</mark><mark style="color:green;">\*</mark> not including maintenance days.

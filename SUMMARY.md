@@ -27,9 +27,9 @@
 * [Giving server access](general/users.md)
 * [Numerical IP \[LIST\]](general/IPv4.md)
 * [Java Version \[MultiEgg\]](general/javabfix.md)
-* [Linkvertise \[DISABLED\]](general/linkvertise.md)
 
 ## Minecraft Guides <a href="#minecraft" id="minecraft"></a>
 
-* [EULA Acceptance](minecraft/eula.md)
-* [Cracked Mode](minecraft/cracked-mode.md)
+* [EULA Acceptance \[Java\]](minecraft/eula.md)
+* [Cracked Mode \[Java\]](minecraft/cracked-mode-java.md)
+* [Adding Resource Pack \[Java\]](minecraft/adding-resource-pack-java.md)
