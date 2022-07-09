@@ -4,21 +4,18 @@
 
 ## Getting Started
 
-* [Logging in](getting-started/login.md)
+* [Logging in](getting-started/logging-in.md)
 * [Server Creation](getting-started/server-creation.md)
+* [Earning Coins](getting-started/coins.md)
 * [SFTP Client Guide](getting-started/sftp/README.md)
   * [SFTP Guide (FileZilla)](https://www.youtube.com/watch?v=aE2QlpQrO6w\&list=PLXP-g\_XiAnBCTPRfixFdhipgO5KrfYG13)
 
-## General Guides <a href="#general" id="general"></a>
-
-* [AFK Coins](general/afk.md)
-* [Gifting Coins](general/gift.md)
-* [Giving server access](general/users.md)
-* [Numerical IP \[LIST\]](general/IPv4.md)
-* [Java Version \[MultiEgg\]](general/javabfix.md)
+## Client Panel Guides <a href="#client" id="client"></a>
 
 ## Minecraft Guides <a href="#minecraft" id="minecraft"></a>
 
+* [Java Version \[MultiEgg\]](minecraft/java/README.md)
+  * [Numerical IP \[LIST\]](minecraft/java/IPv4.md)
 * [EULA Acceptance \[Java\]](minecraft/eula.md)
 * [Cracked Mode \[Java\]](minecraft/cracked-mode.md)
 * [Adding Resource Pack \[Java\]](minecraft/jrp.md)
