@@ -1,29 +1,18 @@
 # Table of contents
 
-## Introduction <a href="#intro" id="intro"></a>
-
-* [Who we are](README.md)
-* [What we offer](intro/what-we-offer.md)
-* [Where to find us](intro/map/README.md)
-  * [Main Page](https://www.exoticnodes.net/)
-  * [Client Panel](https://client.exoticnodes.net/)
-  * [Server Panel](https://panel.exoticnodes.net/)
-  * [Status Page](https://status.exoticnodes.net/)
-  * [Discord](https://discord.gg/freemchost)
-  * [Guide](https://guide.exoticnodes.net/)
+* [Main Page](README.md)
 
 ## Getting Started
 
-* [Creating an account](getting-started/creating-an-account.md)
-* [Creating a server](getting-started/creating-a-server.md)
-* [Login to Server Panel](getting-started/login-to-server-panel.md)
+* [Logging in](getting-started/logging-in.md)
+* [Server Creation](getting-started/server-creation.md)
+* [SFTP Client Guide](getting-started/sftp/README.md)
+  * [SFTP Guide (FileZilla)](https://www.youtube.com/watch?v=aE2QlpQrO6w\&list=PLXP-g\_XiAnBCTPRfixFdhipgO5KrfYG13)
 
 ## General Guides <a href="#general" id="general"></a>
 
 * [AFK Coins](general/afk.md)
 * [Gifting Coins](general/gift.md)
-* [SFTP Client Guide](general/sftp/README.md)
-  * [SFTP Guide by Falix](https://www.youtube.com/watch?v=mUQlgqcvEho)
 * [Giving server access](general/users.md)
 * [Numerical IP \[LIST\]](general/IPv4.md)
 * [Java Version \[MultiEgg\]](general/javabfix.md)
@@ -34,3 +23,4 @@
 * [Cracked Mode \[Java\]](minecraft/cracked-mode.md)
 * [Adding Resource Pack \[Java\]](minecraft/jrp.md)
 * [Adding Resource Pack \[Bedrock\]](minecraft/brp.md)
+* [Page 1](minecraft/page-1.md)
