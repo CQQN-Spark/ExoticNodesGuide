@@ -9,11 +9,15 @@ FileZilla: [CLICK HERE](https://filezilla-project.org/download.php?type=client)\
 WinSCP: [CLICK HERE](https://winscp.net/eng/download.php)\
 \
 How to get your SFTP host, port and username:\
-Step 1: Go to [https://panel.exoticnodes.net/](https://panel.exoticnodes.net/)\
-Step 2: Click your server\
-Step 3: Click the option on the top right that says "Settings"\
-Step 4: Copy and paste the "Server Address"\
-Step 5: Copy and paste the "Username"\
+Go to our [Dashboard ](https://panel.exoticnodes.net/)and click your server\
+Click the "Settings" option and copy the "Server Address"\
+Paste the "Server Address" in your SFTP client\
+Copy the "Username" and paste it in your SFTP client\
+The "Password" is the password you use to login to the Dashboard\
+\
+
+
+\
 \
 Note: Server address includes the port so you do not need to copy and paste the port separately.\
 \

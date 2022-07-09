@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-* [Logging in](getting-started/logging-in.md)
+* [Logging in](getting-started/login.md)
 * [Server Creation](getting-started/server-creation.md)
 * [SFTP Client Guide](getting-started/sftp/README.md)
   * [SFTP Guide (FileZilla)](https://www.youtube.com/watch?v=aE2QlpQrO6w\&list=PLXP-g\_XiAnBCTPRfixFdhipgO5KrfYG13)
