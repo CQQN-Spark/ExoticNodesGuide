@@ -10,14 +10,10 @@
 * [SFTP Client Guide](getting-started/sftp/README.md)
   * [SFTP Guide (FileZilla)](https://www.youtube.com/watch?v=aE2QlpQrO6w\&list=PLXP-g\_XiAnBCTPRfixFdhipgO5KrfYG13)
 
-## Client Panel Guides <a href="#client" id="client"></a>
+## Hosting Guides <a href="#hosting" id="hosting"></a>
 
-## Minecraft Guides <a href="#minecraft" id="minecraft"></a>
-
-* [Java Version \[MultiEgg\]](minecraft/java/README.md)
-  * [Numerical IP \[LIST\]](minecraft/java/IPv4.md)
-* [EULA Acceptance \[Java\]](minecraft/eula.md)
-* [Cracked Mode \[Java\]](minecraft/cracked-mode.md)
-* [Adding Resource Pack \[Java\]](minecraft/jrp.md)
-* [Adding Resource Pack \[Bedrock\]](minecraft/brp.md)
-* [Page 1](minecraft/page-1.md)
+* [Minecraft Java](hosting/mcj.md)
+* [Minecraft Bedrock](hosting/mcbp.md)
+* [Minecraft Proxy](hosting/mcproxy.md)
+* [Discord Bot](hosting/discord.md)
+* [Voice Server](hosting/voice.md)
